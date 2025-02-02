@@ -6,7 +6,6 @@
 ||apps-multi-cdn.samsungcloudcdn.com^$client='192.168.1.50'
 ||img-resize-cdn-prod.samsungnyc.com^$client='192.168.1.50'
 ||provisioning-use2.mgmt.aibixby.com^$client='192.168.1.50'
-||d1oxlq5h9kq8q5.cloudfront.net^$client='192.168.1.50'
 ### Block spotify videos
 ||video-fa.scdn.co^$client='192.168.1.50'
 ||video-fa.cdn.spotify.com^$client='192.168.1.50'
