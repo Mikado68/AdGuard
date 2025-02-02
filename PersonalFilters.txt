@@ -1,0 +1,6 @@
+# Block Samsung Smart TV app store
+||osb-apps-v2.samsungqbe.com^$client='192.168.1.50'
+||apps-multi-cdn.samsungcloudcdn.com^$client='192.168.1.50'
+||img-resize-cdn-prod.samsungnyc.com^$client='192.168.1.50'
+||provisioning-use2.mgmt.aibixby.com^$client='192.168.1.50'
+||d1oxlq5h9kq8q5.cloudfront.net^$client='192.168.1.50'
